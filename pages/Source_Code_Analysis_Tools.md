@@ -74,6 +74,7 @@ vulnerabilities much later in the development cycle.
 - [PMD](https://pmd.github.io/) - PMD scans Java source code and looks for potential code problems (this is a code quality tool that does not focus on security issues).
 - [PreFast](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/ms933794(v=msdn.10)?redirectedfrom=MSDN) (Microsoft) - PREfast is a static analysis tool that identifies defects in C/C++ programs. Last update 2006.
 - [Progpilot](https://github.com/designsecurity/progpilot) - Progpilot is a static analyzer tool for PHP that detects security vulnerabilities such as XSS and SQL Injection.
+- [PSecScanner](https://psecscanner.de) - PSecScanner is a free to use PHP Sourcecode Vulnerability Scanner - it finds: "XSS", "LFI", "RFI", "Header" and "Cookie" Vulnerabilities.
 - [Pyre](https://pyre-check.org/) - A performant type-checker for Python 3, that also has [limited security/data flow analysis](https://pyre-check.org/docs/pysa-basics.html) capabilities.
 - [RIPS](http://rips-scanner.sourceforge.net/) - A static source code analyzer for vulnerabilities in PHP web applications.
 - [Security Code Scan](https://security-code-scan.github.io/) - Static code analyzer for .NET. It will find SQL injections, LDAP injections, XXE, cryptography weakness, XSS and more.
